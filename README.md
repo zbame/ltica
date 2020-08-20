@@ -41,7 +41,7 @@ RUN apt-get update && \
 Build the container.
 
 ```
-docker build -t node-test .
+docker build -t node-ltica .
 ```
 
 JavaScript of the Blinking the LED is following.
