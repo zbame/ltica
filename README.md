@@ -1,6 +1,6 @@
 # ltica
 
-Blink the LED from the Docker container on the Raspberry Pi.
+Blink the LED from the Docker container on the Raspberry Pi. Using node.js.
 
 ## First
 
