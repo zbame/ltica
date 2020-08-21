@@ -10,6 +10,8 @@ Install the docker.
 sudo curl -sSL https://get.docker.com/ | sh
 ```
 
+Don't forget `sudo usermode -aG docker pi`
+
 and, start the docker service.
 
 ```
